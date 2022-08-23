@@ -9,4 +9,4 @@
 - In addition, I have added the position it predicts (as mentioned in the paper) as an input.
 - Although the network is not particularly powerful, it is still interesting and instructive to know how to code your own neural network without the help of state-of-the-art libraries like Keras/Tensorflow.
 
-## I am currently working on a new neural network (DRL) to predict market positions.
+### Next? I am currently working on a new neural network (DRL) to predict market positions.
